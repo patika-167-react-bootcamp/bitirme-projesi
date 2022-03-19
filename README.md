@@ -4,7 +4,7 @@
 
 [Proje Detayları](/files/e-cozum-bitirme.pdf)
 
-[Sena'ya mail ie yollamanız gereken dosya](/files/e-cozum-bitirme.pdf)
+[Sena'ya mail ile yollamanız gereken dosya](/files/Bitirme-Projesi-Hazirlik-Dokumani.docx)
 
 ## Api çalıştırma
 

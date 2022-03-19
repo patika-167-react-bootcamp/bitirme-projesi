@@ -4,6 +4,8 @@
 
 [Proje Detayları](/files/e-cozum-bitirme.pdf)
 
+[Sena'ya mail ie yollamanız gereken dosya](/files/e-cozum-bitirme.pdf)
+
 ## Api çalıştırma
 
 1.  Api reposunu klonla
@@ -14,7 +16,7 @@
 
     bash: `cd patika-kanban-api/`
 
-    poweshell: `cd .\bitirme-projesi\`
+    powershell: `cd .\bitirme-projesi\`
 
 3.  Docker buildini al
 

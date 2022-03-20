@@ -8,6 +8,8 @@
 
 ## Api çalıştırma
 
+[Api Dökümanı](./Api.md)
+
 1.  Api reposunu klonla
 
     `git clone https://github.com/haandev/patika-kanban-api.git`

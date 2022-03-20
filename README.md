@@ -8,7 +8,7 @@
 
 ## Api çalıştırma
 
-[Api Dökümanı](./Api.md)
+[Api Dökümanı](https://demo.hedgedoc.org/s/uiq3aQDPa)
 
 1.  Api reposunu klonla
 
